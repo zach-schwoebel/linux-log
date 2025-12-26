@@ -18,7 +18,7 @@ The emphasis is on:
 ## Selected write-ups
 - Fedora NVIDIA drivers and kernel compatibility
 - Understanding AppImage behavior on Linux
-- [PipeWire / WirePlumber audio troubleshooting](audio/fedora_bluetooth_audio_stutter_fix_pipe_wire_wire_plumber_a_2_dp_aac.md)
+- [PipeWire / WirePlumber audio troubleshooting](audio/fedora-bluetooth-audio-stutter-pipewire.md)
 - Docker volumes vs bind mounts
 
 This repository evolves as my skills progress.
